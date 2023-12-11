@@ -1,6 +1,11 @@
-# Welcome to Remix!
+# Welcome to Remix + fal.ai!
 
 - [Remix Docs](https://remix.run/docs)
+- [Fal Docs](https://fal.ai/docs)
+
+## Fal Credentials
+
+Add your `FAL_KEY` to `.env` or to your environment running the server. See `.env.sample`.
 
 ## Development
 
